@@ -1,3 +1,15 @@
+
+This a forked version of peg-markdown.... only minor changes:
+
+ * Switch to Qt .pro make system for easy x-platform.
+
+ * build a library instead of exec.
+
+ * Add GLibFacade from multimarkdown to allow Win32 compilations.
+
+ * Added ifdefs for C++ linking,
+
+
 What is this?
 =============
 
